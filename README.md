@@ -2,6 +2,10 @@
 
 Oyun Youtube'da "Coding in Flow" kanalında https://www.youtube.com/watch?v=Ii-scMenaOQ&list=PLrnPJCHvNZuCVTz6lvhR81nnaf1a-b67U oynatma listesine bakarak yapılmıştır.
 
-Oyun 2 bölümden oluşmaktadır. 
+Oyun 2 bölümden oluşmaktadır.
 
-Oyun tutorial olduğu için herhangi bir amaç veya ödül eklenmemiştir. Oyunu github hesabımdan indirerek deneme yapabilirsiniz.
+Oyun C# dili ile yazılmıştır.
+
+Oyun tutorial olduğu için herhangi bir amaç veya tamamlama durumu söz konusu değildir. Oyunu github hesabımdan indirerek deneme yapabilirsiniz.
+
+Yeni başlayan arkadaşlara tavsiye ettiğim bir eğitim videosudur. Siz de kendinize bir Super Uzaylı yaratarak bölümler oluşturabilirsiniz. Oyunla kalmaya devam edin.
