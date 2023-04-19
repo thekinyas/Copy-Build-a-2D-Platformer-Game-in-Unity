@@ -8,4 +8,4 @@ Oyun C# dili ile yazılmıştır.
 
 Oyun tutorial olduğu için herhangi bir amaç veya tamamlama durumu söz konusu değildir. Oyunu github hesabımdan indirerek deneme yapabilirsiniz.
 
-Yeni başlayan arkadaşlara tavsiye ettiğim bir eğitim videosudur. Siz de kendinize bir Super Uzaylı yaratarak bölümler oluşturabilirsiniz. Oyunla kalmaya devam edin.
+Yeni başlayan arkadaşlara tavsiye ettiğim bir eğitim videosudur. Siz de kendinize bir Super Uzaylı yaratarak bölümler oluşturabilirsiniz. Oyun oynamaya devam edin.
